@@ -36,8 +36,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-solution-aPYHVynnhu)
+- Live Site URL: [Live Site](https://delicate-empanada-3b66f4.netlify.app/)
 
 ### Built with
 
@@ -51,4 +51,4 @@ I learned how to use Tailwind CSS 4 to create a responsive website. I also learn
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Mahendra Dwipayana - [@ignbmd](https://www.frontendmentor.io/profile/ignbmd)
